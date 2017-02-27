@@ -1,0 +1,15 @@
+{
+  "name": "adara-auth",
+  "version": "0.1.0",
+  "description": "A node module to allow for easy authentication for all node based ADARA application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleg Yanchinskiy",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "mysql": "^2.12.0"
+  }
+}
